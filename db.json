@@ -1,0 +1,22 @@
+{
+  "bg": "https://playvalorant.com/assets/video/Retake-hero-desktop.mp4",
+  "title": "Valorant Quiz",
+  "description": "Teste os seus conhecimentos sobre o Valorant e divirta-se criando o seu AluraQuiz",
+  "questions": [],
+  "external": [],
+  "theme": {
+    "colors": {
+      "primary": "#FA4454",
+      "primaryLight": "#FB6976",
+      "primaryDark": "#AF2F3A",
+      "secondary": "#0F1923",
+      "secondaryLight": "#3F474F",
+      "secondaryDark": "#0A1118",
+      "mainBg": "#1C1814",
+      "contrastText": "#FFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
